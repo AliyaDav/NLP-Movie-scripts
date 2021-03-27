@@ -1,4 +1,4 @@
-# NLP_Movie_scripts
+# Movie scripts analysis
 
 ![](https://i2.wp.com/uozzart.com/wp-content/uploads/2020/03/Harry-Potter..jpg?resize=768%2C492&ssl=1)
 
